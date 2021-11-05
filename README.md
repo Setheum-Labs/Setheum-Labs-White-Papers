@@ -3,12 +3,8 @@ This is the repository for all the Setheum White Papers
 
 ## Most Recent
 
-### LightPaper
-[PDF](./lightpaper/pdf)
-[TXT](./lightpaper/txt)
+### [LightPaper](./lightpaper)
 
-### WhitePaper
-[PDF](./whitetpaper/pdf)
-[TXT](./whitetpaper/txt)
+### [WhitePaper](./whitetpaper)
 
-## [Archive](./archive)
+[Archive](./archive)
