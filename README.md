@@ -4,7 +4,7 @@ This is the repository for all the Setheum White Papers
 ## Most Recent
 
 ### LightPaper
-[PDF](./lightpaper/pdf/setheum-light-paper-Muhammad-jibril-BA (MBA).pdf)
+[PDF](./lightpaper/pdf)
 [TXT](./lightpaper/txt)
 
 ### WhitePaper
