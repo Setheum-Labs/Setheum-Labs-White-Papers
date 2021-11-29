@@ -1,13 +1,7 @@
 # Setheum-Labs-White-Papers
-This is the repository for the Setheum White Papers
 
-## Most Recent
+This is the repository for the Setheum White Papers
 
 ### [LightPaper](./lightpaper)
 
 ### [WhitePaper](./whitetpaper)
-
-
-## No more in use
-
-[Archive](./archive)
